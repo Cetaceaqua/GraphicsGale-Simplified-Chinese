@@ -583,7 +583,7 @@ Modified=修改:
 [Message]
 LoupeKeepAway=放大镜窗口将远离鼠标光标。\n为了捕捉窗口，按住控制键不放带给光标。
 PreviewKeepAway=预览窗口会远离鼠标光标。\n为了捕捉窗口，按住控制键不放带给光标。
-UsedColorNumbers=在当前图层独特的颜色的数量是 %d。\n在当前帧中独特的颜色的数量是 %d。\n在该文件中的独特的颜色的数量是 %d。
+UsedColorNumbers=在当前图层中不同的颜色的数量是 %d。\n在当前帧中不同的颜色的数量是 %d。\n在该文件中的不同的颜色的数量是 %d。
 MakeGradation=第一种颜色和第二种颜色之间的颜色渐变。
 InitColorPalette=调色板将被初始化为默认值。
 CantSeparateAnime=无法分离当前图像
@@ -735,7 +735,7 @@ HelpContents=目录
 HelpCheckForUpdate=检查更新
 ImageAddAlphaChannel=添加 Alpha 通道
 ImageAdjustColor=调整颜色
-ImageCountColorsUsed=计数使用的颜色
+ImageCountColorsUsed=统计使用的颜色
 ImageDeleteAlphaChannel=删除 Alpha 通道
 ImageDuplicateAlphaChannel=重复 Alpha 通道
 ImageEffect=效果
@@ -818,7 +818,7 @@ ToolFilledOval=填充椭圆形
 ToolFilledRectangle=填充矩形
 ToolFloodFill=油漆桶
 ToolLasso=套索
-ToolMagicWand=魔术棒
+ToolMagicWand=魔棒
 ToolMover=移动
 ToolOvalSelection=椭圆选区
 ToolOval=椭圆
@@ -932,7 +932,7 @@ EditMoveSelectionRightEdge=移动所选区域到右边缘。
 EditMoveSelectionTopEdge=移动所选区域到顶部边缘。
 EditMoveSelectionVerticalCenter=移动所选区域到垂直中心。
 EditMoveSelectionBottomEdge=移动所选区域到底部边缘。
-FileAcquire=从 TWAIN 装置中获取图像。
+FileAcquire=从 TWAIN 设备中获取图像。
 FileBatchConversion=在同一时间转换许多文件。
 FileBrowse=通过磁盘上的图像浏览器浏览图像。
 FileClose=关闭当前图像。
@@ -977,7 +977,7 @@ HelpContents=打开帮助文件。
 HelpCheckForUpdate=检查新版本。
 ImageAddAlphaChannel=设置当前图层的 Alpha 通道。
 ImageAdjustColor=调整图像颜色。
-ImageCountColorsUsed=用独特的颜色个数进行计数。
+ImageCountColorsUsed=用不同的颜色个数进行计数。
 ImageDeleteAlphaChannel=从当前图层删除 Alpha 通道。
 ImageDuplicateAlphaChannel=从 Alpha 通道创建一个图像。
 ImageEffect=添加特殊效果到图像。
@@ -1158,8 +1158,8 @@ NoZoomOut=禁止缩小
 
 [Pen]
 Sensitivity=灵敏度
-Desensitize=减低灵敏度(&D)
-ExceptWhenMouseButtonIsReleased=除了释放鼠标按钮时(&E)
+Desensitize=降低灵敏度(&D)
+ExceptWhenMouseButtonIsReleased=当未按下鼠标按钮时不降低(&E)
 
 [Backup]
 Caption=备份
